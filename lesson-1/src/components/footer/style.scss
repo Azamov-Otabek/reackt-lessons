@@ -1,0 +1,25 @@
+footer{
+    background: #165DF5;
+    padding: 23px;
+    .container{
+        display: flex;
+        justify-content: space-between;
+        ul{
+            display: flex;
+            gap: 32px;
+            li{
+                a{
+                    font-size: 14px;
+                    font-weight: 500;
+                    color: white;
+                }
+            }
+        }
+
+        p{
+            color: white;
+            font-size: 14px;
+            font-weight: 500;
+        }
+    }
+}

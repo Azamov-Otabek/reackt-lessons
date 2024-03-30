@@ -1,0 +1,1 @@
+### Har uyga vazifa aloxida folder ichida turadi.

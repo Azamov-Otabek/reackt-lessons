@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "task": "Figma Maket",
+      "work": "Oxirgacha tugatish",
+      "date": "2024.31.03",
+      "deadline": "08:00",
+      "status": "Active",
+      "id": "0a86"
+    },
+    {
+      "id": "6230",
+      "task": "Exam",
+      "work": "section4",
+      "date": "2024-03-31",
+      "deadline": "03:23",
+      "status": "go Fast"
+    },
+    {
+      "id": "1ffb",
+      "task": "fsdfs",
+      "work": "dsfdsf",
+      "date": "2024-03-03",
+      "deadline": "21:36",
+      "status": "fdsfsdf"
+    },
+    {
+      "id": "dba2",
+      "task": "qweqw",
+      "work": "wqewqeq",
+      "date": "2024-03-02",
+      "deadline": "22:39",
+      "status": "qweqwfd"
+    },
+    {
+      "id": "b568",
+      "task": "fsd",
+      "work": "sdf",
+      "date": "2024-03-03",
+      "deadline": "21:46",
+      "status": "sdfsdf"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+#yopiyoruz{
+    padding-bottom: 120px;
+    padding-top: 120px;
+    .container{
+        .yopiyoruz-top{
+            text-align: center;
+            
+            h4{
+                font-weight: 500;
+                font-size: 16px;
+                margin-bottom: 20px;
+                span{
+                    color: #165DF5;
+                }
+            }
+
+            h3{
+                font-size: 32px;
+                font-weight: 500;
+                margin-bottom: 20px;                
+            }
+
+            p{
+                font-size: 16px;
+                font-weight: 500;
+                color: #00000099;
+                max-width: 700px;
+                margin: 0 auto;
+                margin-bottom: 66px;
+            }
+        }
+
+        .yopiyoruz-bottom{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 61px;
+
+            h4{
+                font-size: 36px;
+                font-weight: 500;
+                max-width: 565px;
+                margin-bottom: 30px;
+                line-height: 141%;
+            }
+
+            p{
+                font-size: 18px;
+                color: #00000066;
+                max-width: 418px;
+                margin-bottom: 91px;
+            }
+
+            ul{
+                li{
+                    padding-left: 20px;
+                    margin-bottom: 34px;
+                    h4{
+                        font-weight: 500;
+                        font-size: 24px;
+                        margin-bottom: 8px;
+                    }
+
+                    p{
+                        font-size: 18px;
+                        max-width: 538px;
+                        margin-bottom: 0;
+                    }
+                }
+
+                li:first-child{
+                    border-left: 5px solid #165DF5;
+                }
+            }
+        }
+    }
+}
